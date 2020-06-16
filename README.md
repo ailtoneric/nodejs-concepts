@@ -3,6 +3,18 @@ Project developed during Rocketseat GoStack, Level 1 challenge on nodejs concept
 
 <img alt="ecoleta" src="https://repository-images.githubusercontent.com/272591950/61a76580-afc5-11ea-9548-ae84d2adc688" />
 
+<p align="center">
+
+  <a href="LICENSE" style="text-decoration: none">
+    <img alt="License" src="https://img.shields.io/github/license/ailtoneric/nodejs-concepts" />
+  </a>
+
+  <a href="#" style="text-decoration: none">
+    <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/ailtoneric/nodejs-concepts" />
+  </a>
+
+</p>
+
 ## :trophy: Technologies
 
 This project was developed with the following technologies:
