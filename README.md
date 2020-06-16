@@ -1,6 +1,8 @@
 ## GoStack Challenges - Level 01
 Project developed during Rocketseat GoStack, Level 1 challenge on nodejs concepts applied to Rocketseat Gostack Bootcamp.
 
+<img alt="ecoleta" src="https://repository-images.githubusercontent.com/272591950/61a76580-afc5-11ea-9548-ae84d2adc688" />
+
 ## :trophy: Technologies
 
 This project was developed with the following technologies:
